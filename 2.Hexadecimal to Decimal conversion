@@ -1,0 +1,4 @@
+hex = '0F'  
+dec = int(hex, 16)
+print('Value in hexadecimal:', hex)
+print('Value in decimal:', dec)
