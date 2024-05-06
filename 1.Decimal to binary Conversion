@@ -1,0 +1,2 @@
+DECNUM=101
+print(bin(DECNUM)[2:])
